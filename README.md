@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/uc?id=1jyntShrdHvUcBVH5hnqXiW-AI533-E5x" alt="yieldloss test framework"/>
+  <img src="" alt="yieldloss test framework"/>
 </p>
 
 <p align="center">:coffee: Simple, flexible, fun framework for Allan4Devs International Systems :coffee:</p>
