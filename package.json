@@ -1,0 +1,26 @@
+{
+  "name": "allan4devs.github.io",
+  "version": "1.0.0",
+  "description": "Allan Main WebSite",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "npm test "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allan4devs/allan4devs.github.io.git"
+  },
+  "keywords": [
+    "allan",
+    "aallanrd"
+  ],
+  "author": "aallanrd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allan4devs/allan4devs.github.io/issues"
+  },
+  "homepage": "https://github.com/allan4devs/allan4devs.github.io#readme"
+}
