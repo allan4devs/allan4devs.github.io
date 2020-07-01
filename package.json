@@ -2,12 +2,13 @@
   "name": "allan4devs.github.io",
   "version": "1.0.0",
   "description": "Allan Main WebSite",
-  "main": "index.js",
+  "main": "app.js",
   "directories": {
     "doc": "doc"
   },
   "scripts": {
-    "test": "npm test "
+    "test": "npm test ",
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
@@ -22,5 +23,9 @@
   "bugs": {
     "url": "https://github.com/allan4devs/allan4devs.github.io/issues"
   },
-  "homepage": "https://github.com/allan4devs/allan4devs.github.io#readme"
+  "homepage": "https://github.com/allan4devs/allan4devs.github.io#readme",
+  "dependencies": {
+    "chrome-launcher": "^0.13.3",
+    "express": "^4.17.1"
+  }
 }
